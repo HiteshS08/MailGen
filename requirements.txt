@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+faiss-cpu
+requests
+beautifulsoup4
+python-dotenv
+torch
+transformers
+pandas
+sentence-transformers==3.1.1
